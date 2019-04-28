@@ -1,2 +1,17 @@
 ﻿  变量.c
+F:\VS\Type_of_data\Type_of_data\变量.c(40): warning C4778: “printf”: 格式字符串“%\n”未终止
+F:\VS\Type_of_data\Type_of_data\变量.c(40): warning C4474: printf: 格式字符串中传递的参数太多
+  F:\VS\Type_of_data\Type_of_data\变量.c(40): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+F:\VS\Type_of_data\Type_of_data\变量.c(41): warning C4778: “printf”: 格式字符串“%\n”未终止
+F:\VS\Type_of_data\Type_of_data\变量.c(41): warning C4474: printf: 格式字符串中传递的参数太多
+  F:\VS\Type_of_data\Type_of_data\变量.c(41): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+F:\VS\Type_of_data\Type_of_data\变量.c(42): warning C4778: “printf”: 格式字符串“%\n”未终止
+F:\VS\Type_of_data\Type_of_data\变量.c(42): warning C4474: printf: 格式字符串中传递的参数太多
+  F:\VS\Type_of_data\Type_of_data\变量.c(42): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+F:\VS\Type_of_data\Type_of_data\变量.c(43): warning C4778: “printf”: 格式字符串“%\n”未终止
+F:\VS\Type_of_data\Type_of_data\变量.c(43): warning C4474: printf: 格式字符串中传递的参数太多
+  F:\VS\Type_of_data\Type_of_data\变量.c(43): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+F:\VS\Type_of_data\Type_of_data\变量.c(44): warning C4778: “printf”: 格式字符串“%\n”未终止
+F:\VS\Type_of_data\Type_of_data\变量.c(44): warning C4474: printf: 格式字符串中传递的参数太多
+  F:\VS\Type_of_data\Type_of_data\变量.c(44): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
   Type_of_data.vcxproj -> F:\VS\Type_of_data\Debug\数据类型.exe
